@@ -1,0 +1,128 @@
+https://zhuanlan.zhihu.com/p/74640881
+
+以下简要总结各标点的使用。
+
+句号、问号、感叹号用于句末，结束句子。使用范围与中文这三个标点的意思一致。不同之处在于：它们都要紧跟在单词的右下角，而不像中文的标点要单独占一个空格。
+句号：Jack went to the market.
+
+问号：When did Jack leave the market?
+
+感叹号："Holy crap!" screamed Nancy.
+
+注：句号有两种说法，full stop和period。前者是英式，后者是美式。
+
+逗号、分号、冒号用于句中停顿。此处详细讲一下冒号和分号的用法。
+冒号
+
+（1）冒号之后的内容用来解释说明和补充冒号之前的内容
+
+A new drink was introduced to Britain: tea.
+
+（2）冒号之前和之后的内容有很强的逻辑关系
+
+I would like to be slim: I will try to lose weight.
+
+We went in trouble this time: the lid had just come off.
+
+分号
+
+（1）分号前后的内容有一定联系，比逗号强，比冒号弱
+
+John was hurt; he knew she only said it to upset him.
+
+（2）分号前后的内容作为独立的存在，有对比的作用，一起服务同一个句子
+
+The best job is the one you enjoy; the worst job is the one you hate.
+
+注：短句的并列，用逗号更好：Man proposes, God disposes.
+
+逗号
+
+我们最熟悉的，用起来没啥难度的。
+
+Thanks for your help, Jack.
+
+The man, who climbed the tower without a safety harness, died of old age.
+
+Q: 什么时候用dash呢？dash和hyphen都很短，可以通用吗？
+
+A: dash和hyphen是两种不同的标点，dash比hyphen长。用法如下：
+
+Dash
+
+（1）做插入语，相当于逗号的作用
+
+It was – as far as I could tell – the only example of its kind.
+
+（2）解释或补充说明，相当于冒号的作用
+
+The bus was late today – We nearly missed the lecture.
+
+注：以上两种用法，前后都要空格。
+
+（3）连接人名、地名、数字等，不要空格
+
+German–Polish non-aggression pact, 18–25 age bracket
+
+注：non-aggression中间的短横线就是hyphen，长短区别一目了然。
+
+Hyphen
+
+见到的都在合成词里面：part-time, face-to-face, well-know, a 10-year-old boy, twenty-two…
+
+注： hyphen的前后不用空格。
+
+引号quotation marks
+
+引号用来引用别人的话语，文献句子等。
+
+1) 英式英语中，外围的话用单引号，话中话用双引号：‘I have never been to Norway,’ he said, ‘but I have heard it described as “the Wales of the North”.’
+
+2) 美式英语正好相反，外围的用双引号，话中话用单引号。我个人经常用着一种
+
+书名号（英语里是没有书名号的！！）
+
+英文的书名、音乐专辑、一个系列的某个作品，是通过首字母大写体现的。
+
+书名的大写原则：所有的名词、动词、形容词等实词都要大写；冠词、介词、连词等虚词不需要大写。但书名的第一个单词不论是实词还是虚词，都要大写。
+
+例如：
+
+To Kill a Mockingbird 《杀死一只知更鸟》
+
+The Lord of the Rings 《指环王》
+
+Wuthering Heights 《呼啸山庄》
+
+注：前面说的冠词包括 a, an, the；介词包括at, in, on, of, about, since, from, for, until, during, over, above, under, underneath, below, beneath, near, by, next to, between, among, and opposite；连词包括 for, and, not, but, or, yet, so
+
+1) 在文章里出现书名的话，一般书名调成斜体，如：
+
+You would write the name of William Faulkner’s novel Absalom, Absalom! with both the comma and the exclamation point in italics.
+
+2) 如果是要写一本书的其中一章，某个章节就用引号括起来就行，书名照样斜体，如：
+
+For example, The Lord of the Rings trilogy is sometimes published in one volume. In this case, you could write the name of the first novel as "The Fellowship of the Ring" when citing it in an essay.
+
+因此，整本书的某一章、整张专辑的某首歌、整个系列的某一个小作品，都用引号。如：Queen’s "Bohemian Rhapsody", from the album Night at the Opera, reached number one in both 1975 and 1991.
+
+省略号
+英语里的省略号是三个小黑点，而且是右下角的位置，不是居中的。
+
+中文：……
+
+英文：...
+
+省略号的用法与中文省略号类似，此处不赘述。
+
+2) 尖角括号（angle brackets）也常用于数学、物理领域，偶尔也会在商务信函中写电子邮件地址时出现：Contact me <coordinator@mm.vom>
+
+所以，以上两种标点符号，日常写作中几乎不需要。
+
+3) 方形括号（brackets/square brackets）出现的也较少，一般在论文中引用、标记出处时会用到
+
+4) 最常用的是弧形括号（parentheses/round brackets），常用于解释，补充说明等。某些时候括号可以去掉，改成两个逗号，当插入语。
+
+
+
+
